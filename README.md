@@ -1,4 +1,8 @@
 # hello-v2
+### 简介
+```
+基于vue2.0的脚手架
+```
 
 ## Project setup
 ```
